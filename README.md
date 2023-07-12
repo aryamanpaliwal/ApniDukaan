@@ -1,6 +1,6 @@
 # ApniDukaan
 
-Welcome to ApniDukaan, an e-commerce platform built with React and Node.js.
+Welcome to ApniDukaan,
 
 ## Table of Contents
 - [Introduction](#introduction)
